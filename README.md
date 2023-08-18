@@ -1,5 +1,5 @@
 # ArtistPortfolio
-This is An artist webpage to schedule tour dates, shops, and albums to the public!
+This is An artist webpage to schedule tour dates, shops, and albums for the public!
 
 1) First comes the smooth, and fully functional HOME PAGE with unique and aesthetic font choices, we are able to grab the viewer's attention right from the start! With its dynamic background visual, viewers or fans can joyfully see the tour dates of their favourite artists and buy tickets. Better yet, with the functional links at the footer of the webpage, the viewer can connect with the artist's social media with the touch of a click!!
 <img width="1440" alt="Screenshot 2023-06-05 at 11 00 52 PM" src="https://github.com/han-dann/ArtistPortfolio/assets/98670479/89bdc7f8-cbbd-4ef2-acdb-b43027e179c2">
